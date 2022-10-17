@@ -24,7 +24,7 @@ mimetypes.add_type("text/css", ".css", True)
 SECRET_KEY = 'django-insecure-xibg@vn%_iiq%5%n=cl=y*-!ef&raqc_-a*6p#ywi6q6(nrn8i'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
 
